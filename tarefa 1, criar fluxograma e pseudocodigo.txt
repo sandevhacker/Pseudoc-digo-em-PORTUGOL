@@ -1,0 +1,7 @@
+# Elabore um Fluxograma e um pseudocódigo das seguintes tarefas!
+	
+	1 Fazer programa para comprar um veículo
+
+	2 Rotina diária
+
+	3 Arrumar a casa
